@@ -6,7 +6,7 @@ Data Analyst
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [ogunsuyiadeolu26@gmail.com](mailto:ogunsuyiadeolu26@gmail.com)
-* 🤝  I'm open to collaborating on Data analysis and python projects
+* 🤝  I'm open to collaborating on data analysis and python projects
 
 ### Skills
 
