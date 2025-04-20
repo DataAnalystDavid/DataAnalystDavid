@@ -4,9 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Analyst
 ------------
 
-* 🌍  I'm based in Nigeria
+* 🌍  I'm based in Abuja, Nigeria.
 * ✉️  You can contact me at [ogunsuyiadeolu26@gmail.com](mailto:ogunsuyiadeolu26@gmail.com)
-* 🤝  I'm open to collaborating on data analysis and python projects
+* 🤝  I'm open to collaborating on data analysis, data engineering and python projects
 
 ### Skills
 
